@@ -10,6 +10,8 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		// This is a comment
 		// This is a comment for testing
+		// Try from another side
+
 	}
 
 }
